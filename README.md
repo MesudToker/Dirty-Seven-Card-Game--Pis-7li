@@ -14,4 +14,4 @@ Group members:
 
 3) Nihad AZIMLI
 
-4) Özgür TASOLUK
+4) Özgür TASOLUK - 21301674
