@@ -12,6 +12,6 @@ Group members:
 
 2) Metehan KESEKLER
 
-3) Nihad AZIMLI
+3) Nihad AZIMLI - 21402907
 
 4) Özgür TASOLUK - 21301674
