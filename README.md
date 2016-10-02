@@ -4,7 +4,7 @@ Object-Oriented Software Engineering Fall 2016
 
 Description
 
-  It is a is an android application, card game known as dirty seven or sevens, in Turkish Pis Yedili. For now it will be single player game, which means player will play against computer.
+  It is an android application, card game known as dirty seven or sevens, in Turkish Pis Yedili. For now it will be single player game, which means player will play against computer.
 
 Group members:
 
