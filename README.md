@@ -10,7 +10,7 @@ Group members:
 
 1) Ömer Mesud TOKER - 21302479
 
-2) Metehan KESEKLER
+2) Metehan KESEKLER - 21302605
 
 3) Nihad AZIMLI - 21402907
 
