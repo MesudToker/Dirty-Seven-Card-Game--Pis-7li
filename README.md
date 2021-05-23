@@ -1,4 +1,4 @@
-# Dirty Seven Card Game (Pis 7li)
+# Sevens Card Game (Pis 7li)
 
 Object-Oriented Software Engineering Fall 2016
 
